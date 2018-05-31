@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Andrey Zaikin](https://up.htmlacademy.ru/htmlcss/21/user/808993).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Островский] (https://htmlacademy.ru/profile/grandmaus) .
 
 ---
 
